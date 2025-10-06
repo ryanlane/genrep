@@ -1,4 +1,4 @@
-# 🌿 The Future as Our Trust — Deep Dive
+# 🌿 The Future as Our Trust
 
 ## 🧭 1. **The Council of Generations (CoG)**
 
