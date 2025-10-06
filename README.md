@@ -84,7 +84,7 @@ Framework & Implementation (coming online)
 * [Metrics Dashboard Specification](./METRICS_DASHBOARD_SPEC.md)
 
 Structural Overview
-1.  [Government Structure](./Structure.md)
+1.  [Government Structure](./STRUCTURE.md)
 
 ---
 
