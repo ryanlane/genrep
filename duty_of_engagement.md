@@ -1,4 +1,4 @@
-# 🤝 The Duty of Engagement — Deep Dive
+# 🤝 The Duty of Engagement
 
 ## 🧭 1. **Constitutional & Cultural Principle**
 
