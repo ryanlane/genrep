@@ -66,11 +66,11 @@ Foundational Narrative
 2. Principles of GenRep (above)
 
 Core Pillars
-1. Voice of the People (`voice_of_the_people.md`)
-2. Compass of Knowledge (`compass_of_knowledge.md`)
-3. Rights of All (`rights_of_all.md`)
-4. Future as Our Trust (`future_as_our_trust.md`)
-5. Duty of Engagement (`duty_of_engagement.md`)
+1. [Voice of the People](./voice_of_the_people.md)
+2. [Compass of Knowledge](./compass_of_knowledge.md)
+3. [Rights of All](./rights_of_all.md)
+4. [Future as Our Trust](./future_as_our_trust.md)
+5. [Duty of Engagement](./duty_of_engagement.md)
 
 Framework & Implementation (coming online)
 * [Glossary](./GLOSSARY.md)
